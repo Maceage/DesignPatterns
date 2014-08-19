@@ -7,5 +7,7 @@
         void Visit(Wheel wheel);
 
         void Visit(Body body);
+
+        void Visit(Car car);
     }
 }

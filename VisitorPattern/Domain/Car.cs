@@ -6,16 +6,27 @@ namespace VisitorPattern.Domain
 {
     public class Car : ICarElement
     {
-        private IList<ICarElement> _elements;
+        private readonly IList<ICarElement> _elements;
 
-        public Car(IList<ICarElement> elements)
+        public Car()
         {
-            _elements = elements;
+            _elements = new List<ICarElement>();
+            _elements.Add(new Wheel("Front left"));
+            _elements.Add(new Wheel("Front right"));
+            _elements.Add(new Wheel("Back left"));
+            _elements.Add(new Wheel("Back right"));
+            _elements.Add(new Body());
+            _elements.Add(new Engine());
         }
 
         public void Accept(ICarElementVisitor visitor)
         {
-            throw new System.NotImplementedException();
+            foreach (ICarElement carElement in _elements)
+            {
+                carElement.Accept(visitor);
+            }
+
+            visitor.Visit(this);
         }
     }
 }
