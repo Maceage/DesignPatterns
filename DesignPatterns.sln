@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorPattern", "VisitorPattern\VisitorPattern.csproj", "{F0008610-3AD5-4C02-BD82-028855DB89F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightPattern", "FlyweightPattern\FlyweightPattern.csproj", "{30293178-4CEC-41A7-AE13-C675D3CBC03C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F0008610-3AD5-4C02-BD82-028855DB89F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0008610-3AD5-4C02-BD82-028855DB89F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0008610-3AD5-4C02-BD82-028855DB89F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30293178-4CEC-41A7-AE13-C675D3CBC03C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30293178-4CEC-41A7-AE13-C675D3CBC03C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30293178-4CEC-41A7-AE13-C675D3CBC03C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30293178-4CEC-41A7-AE13-C675D3CBC03C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
