@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace VisitorPattern
+﻿namespace VisitorPattern.Domain.Interfaces
 {
     public interface ICarElementVisitor
     {
+        void Visit(Engine engine);
+
+        void Visit(Wheel wheel);
+
+        void Visit(Body body);
     }
 }
