@@ -1,13 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorPattern", "VisitorPattern\VisitorPattern.csproj", "{F0008610-3AD5-4C02-BD82-028855DB89F4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightPattern", "FlyweightPattern\FlyweightPattern.csproj", "{30293178-4CEC-41A7-AE13-C675D3CBC03C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{6D8D8FB8-415C-4D0A-8BF3-83FB14CA83BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4ED2A8FF-EBBD-45AF-B907-19172BA19D47}"
+	ProjectSection(SolutionItems) = preProject
+		ReSharper.DotSettings = ReSharper.DotSettings
+		Settings.StyleCop = Settings.StyleCop
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
