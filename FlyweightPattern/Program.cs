@@ -24,6 +24,8 @@ namespace FlyweightPattern
 
             shop.Service();
             Console.WriteLine(shop.Report());
+
+            Console.ReadLine();
         }
     }
 }
