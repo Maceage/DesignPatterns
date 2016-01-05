@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ModelViewPresenterPattern")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Xero")]
+[assembly: AssemblyCompany("Microsoft")]
 [assembly: AssemblyProduct("ModelViewPresenterPattern")]
-[assembly: AssemblyCopyright("Copyright © Xero 2016")]
+[assembly: AssemblyCopyright("Copyright © Microsoft 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

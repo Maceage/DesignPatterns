@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("InterpreterPattern")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Xero")]
+[assembly: AssemblyCompany("Microsoft")]
 [assembly: AssemblyProduct("InterpreterPattern")]
-[assembly: AssemblyCopyright("Copyright © Xero 2015")]
+[assembly: AssemblyCopyright("Copyright © Microsoft 2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
