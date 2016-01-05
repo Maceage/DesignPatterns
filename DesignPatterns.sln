@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorDesignPattern", "Me
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelViewPresenterPattern", "ModelViewPresenterPattern\ModelViewPresenterPattern.csproj", "{2D22396E-03D1-4174-8652-16383F112949}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullObjectPattern", "NullObjectPattern\NullObjectPattern.csproj", "{2578B1A2-0469-4C94-8DE5-B65FA7F10A95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{2D22396E-03D1-4174-8652-16383F112949}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D22396E-03D1-4174-8652-16383F112949}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D22396E-03D1-4174-8652-16383F112949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2578B1A2-0469-4C94-8DE5-B65FA7F10A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2578B1A2-0469-4C94-8DE5-B65FA7F10A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2578B1A2-0469-4C94-8DE5-B65FA7F10A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2578B1A2-0469-4C94-8DE5-B65FA7F10A95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
