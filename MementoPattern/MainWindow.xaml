@@ -1,0 +1,13 @@
+﻿<Window x:Class="MementoPattern.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:domain="clr-namespace:MementoPattern.Domain"
+        mc:Ignorable="d"
+        Title="Memento Pattern Example" Height="500" Width="500" WindowStartupLocation="CenterScreen">
+    <Grid Width="500">
+        <domain:InkCanvasWithUndo Height="500" Width="500" HorizontalAlignment="Left" x:Name="InkCanvasWithUndo1" VerticalAlignment="Top" />
+        <Label Height="28" HorizontalAlignment="Right" Margin="0,0,0,0" Name="StatesCountLabel" VerticalAlignment="Top" Width="38" />
+    </Grid>
+</Window>
