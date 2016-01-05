@@ -1,4 +1,5 @@
-﻿using MediatorDesignPattern.Domain;
+﻿using System;
+using MediatorDesignPattern.Domain;
 using MediatorDesignPattern.Mediator;
 
 namespace MediatorDesignPattern
@@ -20,6 +21,8 @@ namespace MediatorDesignPattern
 			fighter3.Altitude += 25000;
 			fighter4.Altitude += 25000;
 			fighter5.Altitude += 25000;
+
+			Console.ReadLine();
 		}
 	}
 }
