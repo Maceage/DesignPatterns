@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelViewPresenterPattern",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullObjectPattern", "NullObjectPattern\NullObjectPattern.csproj", "{2578B1A2-0469-4C94-8DE5-B65FA7F10A95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethodPattern", "TemplateMethodPattern\TemplateMethodPattern.csproj", "{4A33329D-186D-4B68-97CC-2D9B1C6E342F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{2578B1A2-0469-4C94-8DE5-B65FA7F10A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2578B1A2-0469-4C94-8DE5-B65FA7F10A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2578B1A2-0469-4C94-8DE5-B65FA7F10A95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A33329D-186D-4B68-97CC-2D9B1C6E342F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A33329D-186D-4B68-97CC-2D9B1C6E342F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A33329D-186D-4B68-97CC-2D9B1C6E342F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A33329D-186D-4B68-97CC-2D9B1C6E342F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
