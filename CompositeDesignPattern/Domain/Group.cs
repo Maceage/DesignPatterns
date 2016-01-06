@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace CompositeDesignPattern.Domain
+namespace CompositePattern.Domain
 {
     public class Group : IParty
     {

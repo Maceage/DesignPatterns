@@ -1,7 +1,7 @@
 ﻿using System;
-using CompositeDesignPattern.Domain;
+using CompositePattern.Domain;
 
-namespace CompositeDesignPattern
+namespace CompositePattern
 {
     public class Program
     {

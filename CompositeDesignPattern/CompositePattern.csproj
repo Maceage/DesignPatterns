@@ -7,8 +7,8 @@
     <ProjectGuid>{EC9DA090-360E-4EB2-B488-6DDA2FB5D4EB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CompositeDesignPattern</RootNamespace>
-    <AssemblyName>CompositeDesignPattern</AssemblyName>
+    <RootNamespace>CompositePattern</RootNamespace>
+    <AssemblyName>CompositePattern</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

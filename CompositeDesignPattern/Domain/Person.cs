@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CompositeDesignPattern.Domain
+namespace CompositePattern.Domain
 {
     public class Person : IParty
     {
