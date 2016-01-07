@@ -1,6 +1,6 @@
-﻿using MediatorDesignPattern.Domain;
+﻿using MediatorPattern.Domain;
 
-namespace MediatorDesignPattern.Mediator
+namespace MediatorPattern.Mediator
 {
 	public interface IAirTrafficControl
 	{

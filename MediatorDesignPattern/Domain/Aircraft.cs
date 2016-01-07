@@ -1,7 +1,7 @@
 ﻿using System;
-using MediatorDesignPattern.Mediator;
+using MediatorPattern.Mediator;
 
-namespace MediatorDesignPattern.Domain
+namespace MediatorPattern.Domain
 {
 	public abstract class Aircraft
 	{

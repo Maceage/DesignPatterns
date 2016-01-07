@@ -7,8 +7,8 @@
     <ProjectGuid>{A4F2A020-5756-40D1-AF8A-C4786B46FC57}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MediatorDesignPattern</RootNamespace>
-    <AssemblyName>MediatorDesignPattern</AssemblyName>
+    <RootNamespace>MediatorPattern</RootNamespace>
+    <AssemblyName>MediatorPattern</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

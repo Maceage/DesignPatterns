@@ -1,8 +1,8 @@
 ﻿using System;
-using MediatorDesignPattern.Domain;
-using MediatorDesignPattern.Mediator;
+using MediatorPattern.Domain;
+using MediatorPattern.Mediator;
 
-namespace MediatorDesignPattern
+namespace MediatorPattern
 {
 	public class Program
 	{

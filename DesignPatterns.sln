@@ -37,7 +37,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpreterPattern", "Inter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IteratorPattern", "IteratorPattern\IteratorPattern.csproj", "{01F34B82-FFFE-47F9-974B-EDFAF38564A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorDesignPattern", "MediatorDesignPattern\MediatorDesignPattern.csproj", "{A4F2A020-5756-40D1-AF8A-C4786B46FC57}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediatorPattern", "MediatorDesignPattern\MediatorPattern.csproj", "{A4F2A020-5756-40D1-AF8A-C4786B46FC57}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelViewPresenterPattern", "ModelViewPresenterPattern\ModelViewPresenterPattern.csproj", "{2D22396E-03D1-4174-8652-16383F112949}"
 EndProject
