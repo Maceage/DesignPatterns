@@ -69,6 +69,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarkerPattern", "MarkerPatt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RulesPattern", "RulesPattern\RulesPattern.csproj", "{1F54CA2E-24EA-4E9E-A9F6-8AFDE1AF86C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePattern", "StatePattern\StatePattern.csproj", "{A0720013-EFB2-4DCF-9ACA-6BC874E684F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{1F54CA2E-24EA-4E9E-A9F6-8AFDE1AF86C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F54CA2E-24EA-4E9E-A9F6-8AFDE1AF86C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F54CA2E-24EA-4E9E-A9F6-8AFDE1AF86C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0720013-EFB2-4DCF-9ACA-6BC874E684F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0720013-EFB2-4DCF-9ACA-6BC874E684F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0720013-EFB2-4DCF-9ACA-6BC874E684F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0720013-EFB2-4DCF-9ACA-6BC874E684F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
