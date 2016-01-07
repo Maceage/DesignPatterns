@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RulesPattern", "RulesPatter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatePattern", "StatePattern\StatePattern.csproj", "{A0720013-EFB2-4DCF-9ACA-6BC874E684F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LazyLoadPattern", "LazyLoadPattern\LazyLoadPattern.csproj", "{ADDABB72-EAD9-41C9-B627-533FFE8E0776}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -201,6 +203,10 @@ Global
 		{A0720013-EFB2-4DCF-9ACA-6BC874E684F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0720013-EFB2-4DCF-9ACA-6BC874E684F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0720013-EFB2-4DCF-9ACA-6BC874E684F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADDABB72-EAD9-41C9-B627-533FFE8E0776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDABB72-EAD9-41C9-B627-533FFE8E0776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDABB72-EAD9-41C9-B627-533FFE8E0776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDABB72-EAD9-41C9-B627-533FFE8E0776}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
