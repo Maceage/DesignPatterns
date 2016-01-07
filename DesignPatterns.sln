@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern", "AdapterPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitOfWorkPattern", "UnitOfWorkPattern\UnitOfWorkPattern.csproj", "{4CE5D042-3760-4AEE-9B39-12AF8F51A6E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceLocatorPattern", "ServiceLocatorPattern\ServiceLocatorPattern.csproj", "{FBF1D8A1-56EC-4CA3-AF94-E8490FB0ABF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{4CE5D042-3760-4AEE-9B39-12AF8F51A6E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CE5D042-3760-4AEE-9B39-12AF8F51A6E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CE5D042-3760-4AEE-9B39-12AF8F51A6E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF1D8A1-56EC-4CA3-AF94-E8490FB0ABF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF1D8A1-56EC-4CA3-AF94-E8490FB0ABF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF1D8A1-56EC-4CA3-AF94-E8490FB0ABF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF1D8A1-56EC-4CA3-AF94-E8490FB0ABF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
